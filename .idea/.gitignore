@@ -1,0 +1,8 @@
+# Default ignored files
+/../../DigPyTool /.idea/shelf/
+/../../DigPyTool /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../DigPyTool /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../DigPyTool /.idea/dataSources/
+/../../DigPyTool /.idea/dataSources.local.xml
